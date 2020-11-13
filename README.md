@@ -10,3 +10,6 @@
  * 1 tane 16x2 LCD 
  * 3 tane push buton 
  * 1 tane LED
+ * 
+ * Youtube : Ebubekir Dirican
+ https://www.youtube.com/channel/UCgGh_yTcX9KstzRhQaoPV_Q
