@@ -4,7 +4,7 @@
  * ArduOS Arduino üzerinde çalışabilir olarak tasarlanmış bir işletim sistemidir.
  * Şuanlık betadadır 
  * Şuanlık yapabildikleri : 
- * Seçtiğiniz bir pindeki LED'e "Blink" yaptırma 
+ * Seçtiğiniz bir pindeki LED'e "Blink" yaptırma, ve 2 pinlik karaşimşek yaptırma
  * 
  * Gerekenler : 
  * 1 tane 16x2 LCD 
@@ -12,6 +12,7 @@
  * 1 tane LED
  * Kullanmak için bilgisayarınızda LiquidCrystal.h ve Arduino.h kütüphanelerinin yüklü olması gerekmektedir
  * Eğer Arduino programı yüklü ise ArduOS.ino dosyasını herhangi bir Arduino UNO ya yükleyerek çalıştırabilirsiniz. 
+ * Versions kısmından istediğiniz versyonun klasörünü yükleyin ve .ino dosyasını Arduino'ya yazdırın
  * Şuan sadece Arduino UNO üzerinde test edildi
  * Başka bir platformda test yaptıysanız lütfen belirtiniz
  * Ulaşmak için YouTube veya GitHub da yorum bırakabilirsiniz
