@@ -1,8 +1,9 @@
 # ArduOS
- * ArduOS v1.0 beta by Ebubekir Dirican
+ * ArduOS v3.0 by Ebubekir Dirican
  * 
  * ArduOS Arduino üzerinde çalışabilir olarak tasarlanmış bir işletim sistemidir.
- * Şuanlık betadadır 
+ * Artık beta değil
+ * İngilizce ve Türkçe arasında geçiş yapabilirsiniz
  * Şuanlık yapabildikleri : 
  * Seçtiğiniz bir pindeki LED'e "Blink" yaptırma, ve 2 pinlik karaşimşek yaptırma
  * 
@@ -16,6 +17,9 @@
  * Şuan sadece Arduino UNO üzerinde test edildi
  * Başka bir platformda test yaptıysanız lütfen belirtiniz
  * Ulaşmak için YouTube veya GitHub da yorum bırakabilirsiniz
+ *
+ * Dili değiştirmek için açılırken orta tuşa kısa basın ve yan tuşlarla dili seçip orta tuşa tekrar basın.
+ * If you want to change the language you should hold the middle button then select the language and hold middle again.
  *
  * Youtube : Ebubekir Dirican
  https://www.youtube.com/channel/UCgGh_yTcX9KstzRhQaoPV_Q
