@@ -1,0 +1,11 @@
+v1.0
+	Sadece blink var
+
+v1.1
+	Uzun ve kýsa basma farký geçildi
+
+v2.0
+	Karaþimþek menüsü eklendi
+
+v3.0
+	Artýk dili deðiþtirebilirsiniz
