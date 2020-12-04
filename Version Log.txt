@@ -1,11 +1,15 @@
 v1.0
 	Sadece blink var
+	There is only blink
 
 v1.1
-	Uzun ve kısa basma farkı geçildi
+	Uzun ve kÄ±sa basma farkÄ± geÃ§ildi
+	You can hold longer now
 
 v2.0
-	Karaşimşek menüsü eklendi
+	KaraÅŸimÅŸek menÃ¼sÃ¼ eklendi
+	Added blacklight menu
 
-v3.0
-	Artık dili değiştirebilirsiniz
+v3.0	--- English Support
+	ArtÄ±k dili deÄŸiÅŸtirebilirsiniz
+	You can change the language at this version
