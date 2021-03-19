@@ -2,6 +2,7 @@
 
 /* ArduOS v4.0 by Ebubekir Dirican
  * Youtube : Ebubekir Dirican
+ * Please report bugs to TheEarthling#6770 from Discord
  * 
  * ArduOS Arduino üzerinde çalışabilir olarak tasarlanmış bir işletim sistemidir. 
  * Şuanlık yapabildikleri : 
