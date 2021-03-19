@@ -1,11 +1,12 @@
 # ArduOS
- * ArduOS v3.0 by Ebubekir Dirican
+ * ArduOS v4.0 by Ebubekir Dirican
  * 
  * ArduOS Arduino üzerinde çalışabilir olarak tasarlanmış bir işletim sistemidir.
- * Artık beta değil
  * İngilizce ve Türkçe arasında geçiş yapabilirsiniz
  * Şuanlık yapabildikleri : 
- * Seçtiğiniz bir pindeki LED'e "Blink" yaptırma, ve 2 pinlik karaşimşek yaptırma
+ * Seçtiğiniz bir pindeki LED'e "Blink" yaptırma
+ * 2 pin ile karaşimşek yapma
+ * HC-SR04 ile sabit pinler ile mesafe ölçümü 
  * 
  * Gerekenler : 
  * 1 tane 16x2 LCD 
@@ -16,10 +17,17 @@
  * Versions kısmından istediğiniz versyonun klasörünü yükleyin ve .ino dosyasını Arduino'ya yazdırın
  * Şuan sadece Arduino UNO üzerinde test edildi
  * Başka bir platformda test yaptıysanız lütfen belirtiniz
- * Ulaşmak için YouTube veya GitHub da yorum bırakabilirsiniz
+ * Ulaşmak için YouTube veya GitHub da yorum bırakabilirsiniz veya Discord üzerinden direkt olarak ulaşabilirsiniz.
  *
  * Dili değiştirmek için açılırken orta tuşa kısa basın ve yan tuşlarla dili seçip orta tuşa tekrar basın.
  * If you want to change the language you should hold the middle button then select the language and hold middle again.
  *
+ * Please report bugs to me from Discord. My discord: TheEarthling#6770
+ * Bulduğunuz hataları lütfen Discord üzerinden bana bildirin. Discord'um : TheEarthling#6770
+ *
  * Youtube : Ebubekir Dirican
- https://www.youtube.com/channel/UCgGh_yTcX9KstzRhQaoPV_Q
+ * https://www.youtube.com/channel/UCgGh_yTcX9KstzRhQaoPV_Q
+ *
+ * I WILL ADD ENGLISH README SOON 
+ *
+ *
