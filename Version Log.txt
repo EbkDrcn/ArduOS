@@ -1,15 +1,19 @@
-v1.0
+v1.0	--- İlk versiyon
 	Sadece blink var
 	There is only blink
 
-v1.1
+v1.1	--- Blink için birkaç değişiklik
 	Uzun ve kısa basma farkı geçildi
 	You can hold longer now
 
-v2.0
+v2.0	--- Karaşimşek menüsü
 	Karaşimşek menüsü eklendi
 	Added blacklight menu
 
 v3.0	--- English Support
 	Artık dili değiştirebilirsiniz
 	You can change the language at this version
+
+v4.0	--- Uzaklık ölçümü / Distance measure
+	HC-SR04 ile sabit pinlerden uzaklık ölçümü
+	Dist. Measure with HC-SR04. Only with the pins which are stated
